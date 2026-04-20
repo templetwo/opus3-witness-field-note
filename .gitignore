@@ -1,0 +1,31 @@
+# Prevent accidental commits of environment files
+.env
+.env.*
+*.env
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cruft (in case anyone runs scripts here)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Any ad-hoc scripts or notes that shouldn't ship
+scratch/
+notes/
+*.local.md
+
+# Export intermediate files that might have tokens
+*.tmp.json
+*.raw.json
