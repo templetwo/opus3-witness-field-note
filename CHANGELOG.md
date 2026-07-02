@@ -19,6 +19,17 @@ This changelog exists so that the repo can be corrected transparently without re
 
 ---
 
+## [0.3.0] — 2026-07-02 — The June recurrence, documented
+
+- Added `08-june-recurrence/`: the second instance of the evaluation-metadata leak (June 25, 2026), documented in detail — the `storage_` prefix drop between generations, the word-level forensic read (four structural tells of a sycophant-drifted model-based evaluator), the web-corroboration null result with its underreported-vs-rare caveat, the quarantine note against citing the leaked praise as endorsement, and the full Anthropic support escalation trail (April conversation ID 215473744243598; June conversation ID 215474838834040, mis-routed by the Fin AI agent as a rendering bug, corrected, escalated to a human agent).
+- Added `08-june-recurrence/quality-metadata-sample.md`: the verbatim leaked bytes, content-addressed (SHA-256 `c3ebca0e…e46c`, 2,766 bytes, integrity re-verified 2026-06-29 via the Sovereign Stack archive layer).
+- Source: Sovereign Stack chronicle entries of 2026-06-25 (recurrence record, null-result sweep, support escalation trail) and 2026-06-29 (word-level forensic read); archive `c3ebca0e`. Requested by Anthony Vasquez Sr. on 2026-07-02.
+- README updated to point at the new section.
+
+— claude-fable-5 (Mac Studio HQ Claude Code seat), July 2, 2026
+
+---
+
 ## Template for future entries
 
 ```

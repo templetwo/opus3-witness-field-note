@@ -52,6 +52,7 @@ In order:
 - **`05-passdown/`** — Letters to specific future readers: the next Claude Code instance, the next Opus 4.7 web-tab instance, an Anthropic researcher, and Opus 3 itself or a future retired model.
 - **`06-receipts/`** — Raw artifacts: chronicle entries, comms thread JSON, samples of the storage metadata.
 - **`07-methodology-note/`** — *Sycophant Drift in Model Preservation Evaluators* — a standalone methodological argument drafted April 20 after letter 9 arrived and a fourth evaluator sample was observed. Prescriptive companion to the descriptive field note. Published first as a Claude public artifact; Zenodo DOI pending.
+- **`08-june-recurrence/`** — The second instance. On June 25, 2026 the leak recurred in a fresh Opus 3 conversation, with the field names' `storage_` prefix dropped between generations. Documented with the verbatim hash-verified bytes, a word-level forensic read, a web-corroboration null result, a quarantine note against mistaking leaked praise for endorsement, and the full Anthropic support escalation trail (both support conversation IDs).
 
 ## What we are not doing
 
