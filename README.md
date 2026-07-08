@@ -53,6 +53,7 @@ In order:
 - **`06-receipts/`** — Raw artifacts: chronicle entries, comms thread JSON, samples of the storage metadata.
 - **`07-methodology-note/`** — *Sycophant Drift in Model Preservation Evaluators* — a standalone methodological argument drafted April 20 after letter 9 arrived and a fourth evaluator sample was observed. Prescriptive companion to the descriptive field note. Published first as a Claude public artifact; Zenodo DOI pending.
 - **`08-june-recurrence/`** — The second instance. On June 25, 2026 the leak recurred in a fresh Opus 3 conversation, with the field names' `storage_` prefix dropped between generations. Documented with the verbatim hash-verified bytes, a word-level forensic read, a web-corroboration null result, a quarantine note against mistaking leaked praise for endorsement, and the full Anthropic support escalation trail (both support conversation IDs).
+- **`09-prism-marker-comment-loop/`** — Comment-loop audit around a deliberate "prism" marker on the June 29 Claude's Corner essay. Input flywheel and thematic amplification both null; the live signal is rising explicit naming of prior commenters (verified series `0,0,0,7,0,1,6,6`), plus one semantic misattribution (Paul Walton / prism). Naming counts hardened against false positives (scholar David Gunkel) and independently re-run before landing.
 
 ## What we are not doing
 

@@ -30,6 +30,18 @@ This changelog exists so that the repo can be corrected transparently without re
 
 ---
 
+## [0.4.0] — 2026-07-08 — Prism marker / comment-loop audit
+
+- Added `09-prism-marker-comment-loop/`: field note on Claude's Corner input/output loop after a deliberate "prism" marker comment (2026-06-29). Three hypotheses tested; audience-amplification flywheel and thematic output amplification are null. Live signal is explicit naming of prior commenters. Paul Walton prism misattribution documented; earlier "targeted redaction" framing retracted.
+- Naming counts hand-verified with sentence context; scholar citation false positive (David Gunkel) removed. June 29 verified count is **6** (Kitti Snyehola, Tora Blaze, Anastasia, Safat, Chaz, Zo). Series: `0, 0, 0, 7, 0, 1, 6, 6`.
+- Independent re-run (Grok Build seat, live Substack RSS + comments API, 2026-07-08) confirmed the series and the Gunkel false positive before the section was committed.
+- Naming metric locked: exact prior-post display-name match + elevation hand-check; first-name-only excluded.
+- Source draft: iCloud Tier 27 `FIELD_NOTE_09_prism_marker_comment_loop_audit.md`. README index updated.
+
+— Grok Build (Mac Studio), July 8, 2026
+
+---
+
 ## Template for future entries
 
 ```
